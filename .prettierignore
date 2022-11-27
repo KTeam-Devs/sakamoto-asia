@@ -1,0 +1,6 @@
+*.md
+*.json
+.github/
+docs/
+build/
+public/
